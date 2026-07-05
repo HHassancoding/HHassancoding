@@ -46,5 +46,5 @@
 
 ## Contact
 
-- LinkedIn: [your-linkedin-handle](www.linkedin.com/in/hamza-hassan-7b1355249)
-- Email: [your-email@example.com](hamza.al.hassan@outlook.com)
+- LinkedIn: (www.linkedin.com/in/hamza-hassan-7b1355249)
+- Email: (hamza.al.hassan@outlook.com)
