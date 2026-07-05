@@ -29,7 +29,7 @@
 </p>
 ---
 
-## Snapshot
+## Summary
 
 - Based in London, UK.
 - Building full-stack apps with **Java Spring Boot** and **React**, focusing on clean APIs and strong data modeling.
