@@ -4,95 +4,47 @@
 
 ---
 
-## About me
+<!-- Decorative buttons (do nothing useful) -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend-Engineer-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-0F9D58?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testing-CI%2FCD-1E90FF?style=for-the-badge" />
+</p>
+
+<!-- Real buttons: link to LinkedIn and CV -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://your-cv-url.example.com" target="_blank">
+    <img src="https://img.shields.io/badge/CV-Download-FF5722?style=for-the-badge" alt="Download CV" />
+  </a>
+</p>
+
+---
+
+## Snapshot
 
 - Based in London, UK.
-- Currently building full-stack applications with Java Spring Boot and React, focusing on clean API design and robust data modeling.
-- Interested in backend engineering, distributed systems, and applying software to healthcare and patient outcomes.
+- Building full-stack apps with **Java Spring Boot** and **React**, focusing on clean APIs and strong data modeling.
+- Interested in backend engineering, security, and applying software in healthcare contexts.
 
----
+## Tech stack (core)
 
-## Current focus
+- **Backend:** Java · Spring Boot · REST APIs · SQL (PostgreSQL/MySQL) · JPA/Hibernate  
+- **Frontend:** React · TypeScript/JavaScript  
+- **DevOps & tooling:** Git · GitHub · GitHub Actions · Docker  
+- **Testing:** JUnit · Mockito · Spring Boot test slices
 
-- Designing RESTful services in Spring Boot with layered architecture (controller–service–repository).
-- Implementing security, authentication, and error handling for production-ready APIs.
-- Improving test coverage with JUnit, Mockito, and integration tests, supported by CI/CD pipelines on GitHub Actions.
+## Projects
 
----
+- Location-based recommendation and place data services (Spring Boot REST APIs).
+- Full-stack app with automated testing and CI/CD pipelines using GitHub Actions.
+- Smaller services exploring authentication, authorization, and robust error handling.
 
-## Tech stack
+> Check out my pinned repositories for the most recent work.
 
-**Backend**
+## Contact
 
-- Java · Spring Boot (Web, Data JPA, Security) · Maven/Gradle
-- REST APIs · JSON · Validation · Exception handling
-- SQL · PostgreSQL / MySQL · Database schema design and normalization
-
-**Frontend**
-
-- React · TypeScript/JavaScript
-- React Query / Axios · Component-driven UI
-- HTML5 · CSS3 · Tailwind CSS or styled-components (depending on project)
-
-**DevOps & tooling**
-
-- Git · GitHub · Branching strategies (feature branches, PR-based workflow)
-- GitHub Actions · CI/CD for build, test, and deploy
-- Docker · Docker Compose · Local environment setup
-
-**Testing & quality**
-
-- JUnit · Mockito · Spring Boot test slices
-- Postman / REST Client for API validation
-- Static analysis and code quality checks (SonarLint, IDE inspections)
-
----
-
-## Highlighted projects
-
-- **Location-based recommendation service**  
-  Java Spring Boot backend providing REST APIs for place data, location-based recommendations, and user context; includes schema design, pagination, and search.  
-  _Focus: API design, data modeling, and performance-aware queries._
-
-- **Full-stack web application with CI/CD**  
-  Spring Boot + React application with automated tests and deployment via GitHub Actions and containers.  
-  _Focus: pipeline automation, test strategy, and production-ready configuration._
-
-- **Security & testing experiments**  
-  Smaller services exploring authentication, authorization, and secure error handling, with high test coverage.  
-  _Focus: security fundamentals, defensive coding, and reliability._
-
-> You can find these and more in my pinned repositories.
-
----
-
-## Experience & education
-
-- **Second-year BSc Computer Science**, Royal Holloway, University of London — core modules in algorithms, data structures, software engineering, and systems.
-- **Final-year Dental Hygiene student (UK)** — clinical experience in patient care, infection control, and communication, giving me a strong user-centered perspective.
-- Past experience in retail and invigilation roles, building teamwork, responsibility, and attention to detail.
-
----
-
-## How I work
-
-- I prefer small, well-tested services with clear interfaces and documentation.
-- I use issues, branches, and pull requests to track work and keep a clean commit history.
-- I value readable code, meaningful logs, and monitoring over "clever" solutions.
-
----
-
-## What I'm looking for
-
-- Backend or full-stack internships, placements, or junior roles where I can grow my Java/Spring Boot and API design skills.
-- Opportunities to contribute to high-quality codebases, especially in health tech, education, or developer tooling.
-
----
-
-## Get in touch
-
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
-- Portfolio: [your-portfolio-url]
-
-_Always open to feedback on my code, architecture decisions, and testing strategy._
+- LinkedIn: [your-linkedin-handle](https://www.linkedin.com/in/your-linkedin-handle)
+- Email: [your-email@example.com](mailto:your-email@example.com)
