@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Hamza Hassan 👋
 
-**Second-year Computer Science student at Royal Holloway, University of London · Final-year Dental Hygiene student · Aspiring Backend Engineer (Java/Spring Boot)**
+**Second-year Computer Science student at Royal Holloway, University of London · Aspiring Backend Engineer (Java/Spring Boot)**
 
 ---
 
@@ -46,5 +46,5 @@
 
 ## Contact
 
-- LinkedIn: [your-linkedin-handle](https://www.linkedin.com/in/your-linkedin-handle)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [your-linkedin-handle](www.linkedin.com/in/hamza-hassan-7b1355249)
+- Email: [your-email@example.com](hamza.al.hassan@outlook.com)
